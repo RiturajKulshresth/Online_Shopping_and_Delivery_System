@@ -20,5 +20,6 @@
 ## Installation
       Install CodeBlocks IDE - http://www.codeblocks.org/
       All header files and the cpp file should be in the same folder
-      Build and run the code
+      Build and run the code (If you wish to create a new database, Remove the .exe file)
+      Or download all files and run the .exe file (If you wish to run the code on the original database)
       
