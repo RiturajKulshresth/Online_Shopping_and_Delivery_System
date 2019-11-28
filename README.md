@@ -1,2 +1,2 @@
-# Online_Shopping_and_Delivery_System
+# Online Shopping and Delivery System
 Course project for OOAD.
