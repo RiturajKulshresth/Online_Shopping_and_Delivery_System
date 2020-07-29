@@ -1,7 +1,9 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 # Online Shopping and Delivery System
-  Course project for OOAD.   
+  Course project for OOAD.  
+  The project only includes initial development stages, gathering, requirements and developing a working prototype for further development.
+  
 ## Description 
       Written in C++
       Register as a Customer
