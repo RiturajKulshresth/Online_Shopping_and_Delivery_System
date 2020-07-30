@@ -2,12 +2,12 @@
 
 # Online Shopping and Delivery System
   Course project for OOAD.  
-  The project only includes initial development stages, gathering, requirements and developing a working prototype for further development.
+  The project only includes initial development stages, gathering requirements and developing a working prototype for further development.
   
 ## Description 
       Written in C++
       Register as a Customer
-      Register as aseller
+      Register as a seller
       Login as Customer 
       Login as Seller
       Seller can display all his products
